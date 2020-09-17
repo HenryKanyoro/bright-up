@@ -1,0 +1,138 @@
+h1{
+    color: white;
+    text-align: center;
+}
+
+#cow{
+    justify-content: space-between;
+}
+
+#man{
+    font-size:25px;
+    text-align: center;
+    justify-content: space-between;
+    color: white;
+    background-color: blue;
+}
+#kenya{
+    font-size:40px;
+    text-align: center;
+    color: turquoise;
+}
+#glass{
+    font-size: 24px;
+    text-align: center;
+    color: white;
+}
+#plastic{
+    font-size: 40px;
+    text-align: center;
+    color: turquoise;
+
+}
+*{
+    background-color: black;
+}
+#boy{
+    font-size:25px;
+    text-align: center;
+    justify-content: space-between;
+    color: rgb(2, 67, 247);
+    
+}
+#fname{
+    color: white;
+}
+#Sname{
+    color: white;   
+}
+#lname{
+    color: white;
+}
+#E-mail{
+    color: white;
+}
+#Uname{
+    color: white;
+}
+#password{
+    color: white;
+}
+height: 100%;
+padding:0px;
+margin:0px;
+background: white;
+}
+li,button {
+font-weight: 500;
+font-size:16px;
+color: black;
+}
+.footer {
+    background-color:#0B082B;
+    color:white;
+    position: relative;
+    left:0;
+    bottom:0;
+    right:0;
+    }
+    .footer .footer-bottom {
+    background-color: indigo;
+    height: 20px;
+    width:100%;
+    text-align:center;
+    position: absolute;
+    bottom:0px;
+    left: 0px;
+    padding-top: 20px;
+    }
+    .footer .footer-content {
+    height: 400px;
+    display:flex;
+    }
+    .footer .footer-content .footer-section {
+    flex: 1;
+    padding: 25px;
+    border: 1px solid white;
+    }
+    .footer .socials i {
+    color:white; 
+    }
+    .footer li {
+        color:white;
+        display:flex;
+        align-items: center;
+    }
+        .page-title {
+            display:flex;
+            justify-content: space-between;
+            /* align-items: center; */
+            padding:3px;
+            background-color: #0B082B;
+            }
+            #header {
+                color: white;
+                margin-top: 25px;
+                margin-left: 30%;
+                text-shadow: 3px 3px red;
+    }
+    .navigation li {
+        display: inline;
+        padding: 0px 25px;
+        color: white;
+        
+    }
+
+    .navigation li a{
+        transtion: all 0.3 ease 0s;
+        color: white;
+    }
+    .navigation li a:hover{
+        color: limegreen:
+    }
+
+        
+        
+        
+        
+        
